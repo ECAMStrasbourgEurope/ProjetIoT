@@ -7,3 +7,6 @@ c=5
 
 print(a+b)*c
 
+print(a+b*np.pi)
+
+Print("Le cheval c'est génial")
